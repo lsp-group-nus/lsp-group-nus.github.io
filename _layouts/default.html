@@ -10,7 +10,7 @@
               crossorigin="anonymous">
         <link rel="stylesheet"
               href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="{{ site.base }}/css/group.css">
+        <link rel="stylesheet" href="{{ '/css/group.css' | relative_url }}">
     </head>
     <body>
         <div class="container">
@@ -18,9 +18,9 @@
             <div class="header d-flex
                         flex-column
                         flex-md-row justify-content-md-between">
-                <a href="{{ site.base }}/" class="">
-                    <img src="{{ site.base }}/img/logo.png"
-                         srcset="{{ site.base }}/img/logo@2x.png 2x"
+                <a href="{{ '/' | relative_url }}" class="">
+                    <img src="{{ '/img/logo.png' | relative_url }}"
+                         srcset="{{ '/img/logo@2x.png' | relative_url }} 2x"
                          alt="Awesome" id="logo">
                 </a>
                 <ul class="nav nav-pills justify-content-center">
@@ -40,7 +40,7 @@
 
                         <li class="nav-item">
                             <a class="nav-link {{ maybe-active }}"
-                               href="{{ site.base }}{{ item.link }}">
+                               href="{{ item.link | relative_url }}">
                                 {{ item.title }}
                             </a>
                         </li>
@@ -51,7 +51,7 @@
             </div>
 
             {% if page.image %}
-                <img src="{{ page.image }}"
+                <img src="{{ page.image | relative_url }}"
                      alt="{{ page.title }}"
                      style="max-width: 400px"
                      class="img-fluid mx-auto d-block mb-4"/>
@@ -75,6 +75,6 @@
 
         <!-- Support retina images. -->
         <script type="text/javascript"
-                src="{{ site.base }}/js/srcset-polyfill.js"></script>
+                src="{{ '/js/srcset-polyfill.js' | relative_url }}"></script>
     </body>
 </html>

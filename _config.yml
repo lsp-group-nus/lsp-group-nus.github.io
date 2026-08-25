@@ -1,5 +1,6 @@
 name: LSP Research Group
-url: http://lsp-group.example.edu
+url: https://lsp-group-nus.github.io
+baseurl: /research-group-web
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
