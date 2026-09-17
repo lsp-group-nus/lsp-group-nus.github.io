@@ -1,3 +1,6 @@
+#-----------------------------------------------------------------------------
+# Faculty
+#-----------------------------------------------------------------------------
 
 prof-peh:
     display_name: "Li-Shiuan Peh"
@@ -5,76 +8,92 @@ prof-peh:
     image: /img/people/prof-peh.jpeg
     webpage: "https://www.comp.nus.edu.sg/~peh/"
 
+#-----------------------------------------------------------------------------
+# Postdoc
+#-----------------------------------------------------------------------------
+
 ahmed:
     display_name: "Dr. Ahmed Shalaby"
-    webpage: "https://eg.linkedin.com/in/ashalaby"
     role: postdoc
+    webpage: "https://eg.linkedin.com/in/ashalaby"
+
+#-----------------------------------------------------------------------------
+# PhD candidates
+#-----------------------------------------------------------------------------
 
 ananta:
     display_name: "Ananta Narayan Balaji"
     webpage: "https://anantabalaji.github.io/"
-    role: grad
+    role: phd
     image: /img/people/ananta.HEIC
 
 mohit:
     display_name: "Mohit Upadhyay"
     webpage: "https://mohit-up.github.io/"
-    role: grad
+    role: phd
     image: /img/people/mohit.jpg
 
 burin:
     display_name: "Burin Amornpaisannon"
     webpage: "https://www.linkedin.com/in/burin-a/"
-    role: grad
+    role: phd
     image: /img/people/burin.jpg
 
 teck-lun:
     display_name: "Teck Lun Goh"
     webpage: "https://www.linkedin.com/in/tecklungoh/"
-    role: grad
+    role: phd
     image: /img/people/teck-lun.jpg
 
 thilini:
     display_name: "Thilini Kaushalya Bandara"
     webpage: "https://www.linkedin.com/in/thilinibandara91/"
-    role: grad
+    role: phd
     image: /img/people/thilini.jpg
 
 ayanga:
     display_name: "Ayanga Kalupahana"
     webpage: "https://www.linkedin.com/in/ayanga-kalupahana-7b131151/"
-    role: grad
+    role: phd
     image: /img/people/AyangaK.jpg
 
 yash:
     display_name: "Yaswanth Tavva"
     webpage: "https://sg.linkedin.com/in/yswnth"
-    role: grad
+    role: phd
     image: /img/people/lupin.webp
 
 rohan:
     display_name: "Rohan Juneja"
     webpage: "https://rohanjuneja.github.io/"
-    role: grad
+    role: phd
     image: /img/people/rohan.jpg
 
 li-xiaoyang:
     display_name: "Xiaoyang (Henry) Li"
     webpage: "https://xli562.github.io/"
-    role: grad
+    role: phd
     image: /img/people/li-xiaoyang.png
 
-wang-bo:
-    display_name: "Wang Bo"
-    role: collab
-    webpage: "https://istd.sutd.edu.sg/people/faculty/angela-wang-bo"
-    image: /img/people/wang-bo.jpeg
+#-----------------------------------------------------------------------------
+# Alumni
+#-----------------------------------------------------------------------------
 
 zhou-jun:
     display_name: "Zhou Jun"
     role: alum
     image: /img/people/zhou-jun.png
     webpage: "https://www.linkedin.com/in/jun-zhou-39303a45/"
+
+#-----------------------------------------------------------------------------
+# Collaborators
+#-----------------------------------------------------------------------------
+
+wang-bo:
+    display_name: "Wang Bo"
+    role: collab
+    webpage: "https://istd.sutd.edu.sg/people/faculty/angela-wang-bo"
+    image: /img/people/wang-bo.jpeg
 
 prof-tulika:
     display_name: "Tulika Mitra"
@@ -108,4 +127,3 @@ chen-yuan:
     display_name: "Yuan Chen"
     role: collab
     webpage: "https://www.huilinshao.com/team/"
-
