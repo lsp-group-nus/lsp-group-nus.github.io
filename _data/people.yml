@@ -58,6 +58,12 @@ rohan:
     role: grad
     image: /img/people/rohan.jpg
 
+li-xiaoyang:
+    display_name: "Xiaoyang (Henry) Li"
+    webpage: "https://xli562.github.io/"
+    role: grad
+    image: /img/people/li-xiaoyang.png
+
 wang-bo:
     display_name: "Wang Bo"
     role: collab
@@ -102,3 +108,4 @@ chen-yuan:
     display_name: "Yuan Chen"
     role: collab
     webpage: "https://www.huilinshao.com/team/"
+
