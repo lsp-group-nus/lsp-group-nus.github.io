@@ -7,7 +7,11 @@ BIBBLE = bibble
 
 _includes/pubs.html: bib/pubs.bib bib/publications.tmpl
 	mkdir -p _includes
-	$(BIBBLE) $+ > $@
+	@set -e; tmp="$@.tmp"; trap 'rm -f "$$tmp"' EXIT; \
+		$(BIBBLE) $+ > "$$tmp"; \
+		test -s "$$tmp"; \
+		mv "$$tmp" "$@"; \
+		trap - EXIT
 
 build: _includes/pubs.html
 	jekyll build
