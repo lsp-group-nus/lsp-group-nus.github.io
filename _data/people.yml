@@ -75,6 +75,12 @@ li-xiaoyang:
     role: phd
     image: /img/people/li-xiaoyang.png
 
+shun:
+    display_name: "Shun Katsumi"
+    webpage: "https://www.linkedin.com/in/shunkatsumi/"
+    role: phd
+    image: /img/people/shun.jpg
+
 #-----------------------------------------------------------------------------
 # Alumni
 #-----------------------------------------------------------------------------
