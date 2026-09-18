@@ -17,6 +17,12 @@ ahmed:
     role: postdoc
     webpage: "https://eg.linkedin.com/in/ashalaby"
 
+yimin:
+    display_name: "Yimin Wang"
+    webpage: "https://y1-w.github.io/"
+    role: postdoc
+    image: /img/people/yimin.jpg
+
 #-----------------------------------------------------------------------------
 # PhD candidates
 #-----------------------------------------------------------------------------
