@@ -12,11 +12,6 @@ prof-peh:
 # Postdoc
 #-----------------------------------------------------------------------------
 
-ahmed:
-    display_name: "Dr. Ahmed Shalaby"
-    role: postdoc
-    webpage: "https://eg.linkedin.com/in/ashalaby"
-
 yimin:
     display_name: "Yimin Wang"
     webpage: "https://y1-w.github.io/"
@@ -26,37 +21,6 @@ yimin:
 #-----------------------------------------------------------------------------
 # PhD candidates
 #-----------------------------------------------------------------------------
-
-ananta:
-    display_name: "Ananta Narayan Balaji"
-    webpage: "https://anantabalaji.github.io/"
-    role: phd
-    image: /img/people/ananta.HEIC
-
-mohit:
-    display_name: "Mohit Upadhyay"
-    webpage: "https://mohit-up.github.io/"
-    role: phd
-    image: /img/people/mohit.jpg
-
-burin:
-    display_name: "Burin Amornpaisannon"
-    webpage: "https://www.linkedin.com/in/burin-a/"
-    role: phd
-    image: /img/people/burin.jpg
-
-teck-lun:
-    display_name: "Teck Lun Goh"
-    webpage: "https://www.linkedin.com/in/tecklungoh/"
-    role: phd
-    image: /img/people/teck-lun.jpg
-
-thilini:
-    display_name: "Thilini Kaushalya Bandara"
-    webpage: "https://www.linkedin.com/in/thilinibandara91/"
-    role: phd
-    image: /img/people/thilini.jpg
-
 ayanga:
     display_name: "Ayanga Kalupahana"
     webpage: "https://www.linkedin.com/in/ayanga-kalupahana-7b131151/"
@@ -74,6 +38,12 @@ rohan:
     webpage: "https://rohanjuneja.github.io/"
     role: phd
     image: /img/people/rohan.jpg
+
+vishruti:
+    display_name: "Vishruti Ranjan"
+    webpage: "https://vishrutiranjan.com/"
+    role: phd
+    image: /img/people/vishruti.jpg
 
 li-xiaoyang:
     display_name: "Xiaoyang (Henry) Li"
@@ -96,6 +66,41 @@ zhou-jun:
     role: alum
     image: /img/people/zhou-jun.png
     webpage: "https://www.linkedin.com/in/jun-zhou-39303a45/"
+
+ahmed:
+    display_name: "Dr. Ahmed Shalaby"
+    role: alum
+    webpage: "https://eg.linkedin.com/in/ashalaby"
+
+ananta:
+    display_name: "Ananta Narayan Balaji"
+    webpage: "https://anantabalaji.github.io/"
+    role: alum
+    image: /img/people/ananta.HEIC
+
+mohit:
+    display_name: "Mohit Upadhyay"
+    webpage: "https://mohit-up.github.io/"
+    role: alum
+    image: /img/people/mohit.jpg
+
+burin:
+    display_name: "Burin Amornpaisannon"
+    webpage: "https://www.linkedin.com/in/burin-a/"
+    role: alum
+    image: /img/people/burin.jpg
+
+teck-lun:
+    display_name: "Teck Lun Goh"
+    webpage: "https://www.linkedin.com/in/tecklungoh/"
+    role: alum
+    image: /img/people/teck-lun.jpg
+
+thilini:
+    display_name: "Thilini Kaushalya Bandara"
+    webpage: "https://www.linkedin.com/in/thilinibandara91/"
+    role: alum
+    image: /img/people/thilini.jpg
 
 #-----------------------------------------------------------------------------
 # Collaborators
