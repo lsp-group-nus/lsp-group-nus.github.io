@@ -1,4 +1,4 @@
-# Research Group Web Site Template
+# LSP Research Group Website
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
 
@@ -19,6 +19,20 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 * Responsive (mobile-ready) design based on [Bootstrap][].
 
 [Bootstrap]: http://getbootstrap.com/
+
+## Contributing
+
+Please use the following workflow when making changes:
+
+1. Create a new branch for your update: `git checkout -b describe-your-change`.
+2. Make and test your changes locally.
+3. Commit the changes and push the branch to your repository.
+4. Open a pull request against this repository's `master` branch.
+
+If you have write access to this repository, you may push your branch directly
+here and open the pull request from that branch. If you do not have write
+access, fork the repository first, push your branch to your fork, and open the
+pull request from the fork. Please avoid committing directly to `master`.
 
 ## Setup
 
