@@ -118,6 +118,12 @@ prof-tulika:
     image: /img/people/prof_tulika.jpg
     webpage: "https://www.comp.nus.edu.sg/~tulika/"
 
+prof-hsu:
+    display_name: "David Hsu"
+    role: collab
+    image: /img/people/prof_hsu.png
+    webpage: "https://www.comp.nus.edu.sg/~dyhsu/"
+
 prof-trevor:
     display_name: "Trevor Erik Carlson"
     role: collab
