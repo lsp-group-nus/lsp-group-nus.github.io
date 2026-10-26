@@ -1,4 +1,4 @@
-# LSP Research Group Website
+# [LSP Research Group Website](https://lsp-group-nus.github.io/)
 
 This is a [Jekyll][]-based Web site intended for research groups. Your group should be able to get up and running with minimal fuss.
 
